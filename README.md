@@ -10,3 +10,6 @@ https://kleenscan.com/scan_result/55dcc1ea0aa4540df646895094f44e1fc86ed4621d78e6
 
 VirusTotal for Jynx.g.jar (0/59):
 https://www.virustotal.com/gui/file/b4cc981309a9eaa62b1222ceaed55b938e17776b78dcc65370acc1dcefef774c?nocache=1
+
+# WARNING THE JAR FILES IN THIS REPOSITORY ARE MALWARE
+# UPLOADED FOR ANALYSIS PURPOSES ONLY
